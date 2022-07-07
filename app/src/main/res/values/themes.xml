@@ -1,0 +1,60 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.TouristGuideOfTheCityRAKHIV" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/blue</item>
+        <item name="colorPrimaryDark">@color/blue</item>
+        <item name="colorAccent">@color/black</item>
+        <!-- Customize your theme here. -->
+    </style>
+    <style name="RAKHIV_NoActionBar" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/blue</item>
+        <item name="colorPrimaryDark">@color/blue</item>
+        <item name="colorAccent">@color/black</item>
+        <!-- Customize your theme here. -->
+    </style>
+    <style name="Theme.TouristGuideOfTheCityRAKHIV.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="Theme.TouristGuideOfTheCityRAKHIV.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+    <style name="Theme.TouristGuideOfTheCityRAKHIV.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="TitleHeaderStyle">
+        <item name="android:textSize">@dimen/first_title_size</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:fontFamily">@font/lobster</item>
+    </style>
+
+    <style name="TitleStyle">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">@dimen/title_size2</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:fontFamily">@font/roboto</item>
+        <item name="android:textIsSelectable">true</item>
+    </style>
+
+    <style name="TextStyle1">
+        <item name="android:textSize">@dimen/text_size</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:fontFamily">@font/roboto</item>
+        <item name="android:textIsSelectable">true</item>
+    </style>
+
+    <style name="TextStyle2">
+        <item name="android:textSize">@dimen/text_size2</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:fontFamily">@font/roboto</item>
+        <item name="android:textIsSelectable">true</item>
+    </style>
+
+    <style name="CardViewStyle">
+        <item name="android:layout_marginHorizontal" tools:targetApi="o">@dimen/first_card_marginHorizontal</item>
+        <item name="android:elevation">8dp</item>
+        <item name="android:layout_marginBottom">15dp</item>
+    </style>
+
+</resources>

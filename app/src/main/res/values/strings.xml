@@ -1,0 +1,139 @@
+<resources>
+    <string name="app_name">Tourist guide of the city \"RAKHIV\"</string>
+    <string name="rakhiv">Rakhiv</string>
+
+    <string name="first_description">Our travel guide about the city of Rakhiv will tell you about interesting places. Which you can visit if you travel and you are interested in this city.</string>
+
+    <string name="title1">WHAT DO YOU NEED TO KNOW ABOUT THE CITY OF ACCOUNTS?\nFIND OUT MORE IN OUR GUIDE TRAVEL GUIDE</string>
+    <string name="text1">Tourist Information Center "Turinform Transcarpathia" has formed some interesting facts for you and offers you ideas for a stay in Rakhiv for a few days. Therefore:\n\n
+    ➡ The city of Rakhiv is the highest mountain city in Ukraine, located on the banks of the Tisza River, the center of Hutsul culture in Transcarpathia.\n
+    ➡ It is located at an altitude of 430 m above sea level, interestingly, the highest point where the inhabitants live is 1200 m, and the lowest around 400 m above sea level. Visitors to the city are always amazed at how the locals overcome not only distances but also height differences on a daily basis.\n
+    ➡ The city of Rakhiv is located in the heart of the Ukrainian Carpathians, arriving in the city by train or bus you can immediately see the Montenegrin, Marmarosh and Svydovets massifs that rise above the city, where they begin.\n
+    ➡ Interestingly, in any direction there are tourist routes with many mineral springs (Burkut tract, about 15 springs) and streams with fresh spring water.\n
+    ➡ Warning! There are 3 waterfalls in Rakhiv and you should see them. Order the services of guides (contacts given below).\n
+    ➡ Rakhiv, the only city in Ukraine where the tallest larch trees in Ukraine grow - the only coniferous trees that shed needles for the winter. Here is the largest and oldest larch alley in Europe, over 200 years old.\n
+    ➡ Here is an alley of cedar pine, and here grows the largest in Ukraine Yew berry and giant beeches, which are more than 170 years old, there is also a giant juniper more than 5 meters tall.\n
+    ➡ We present the idea for spring. When sakura blossoms have already bloomed in Uzhhorod and Mukachevo, they are just beginning in Rakhiv. Yes, there are sakura trees in Rakhiv and this is another reason to visit the city of Rakhiv in May.\n
+    ➡ Fans of military tourism will be interested to visit the Rakhiv branch of the Arpad line\n
+    ➡ The best place in Rakhiv is Lysa 1158 m above sea level, from this peak from one point you can see all the highest peaks of the Ukrainian Carpathians - Bliznytsia 1881, Pip Ivan Maramorosky 1936 m, and all the peaks of the Montenegrin ridge.
+    </string>
+
+    <string name="title2_1">AS YOU SEE, THERE ARE MANY INTERESTING PLACES AND EXCURSIONS IN RAHOVA. YOU WILL HAVE EXACTLY WHAT TO DO, WHAT TO DO AND WHAT TO SEE.</string>
+    <string name="title2_2">WE RECOMMEND YOU TO PLAN YOUR HOLIDAY IN ACCOUNT FOR FULL 3 - 5 DAYS.</string>
+    <string name="text2">The town of Rakhiv is located between the mountains, on the banks of the river Tisza.</string>
+
+    <string name="title3">HOW TO GET TO THE CITY OF RAKHIV?</string>
+    <string name="text3">Today it can be done by train from the main cities of Ukraine, namely:\n\n
+    • If you are traveling from Kyiv, the train 217 L, which departs from the railway station of Kyiv at 15 hours 02 minutes (data as of 10.11.2020). The train leaves for Rakhiv, and follows through the cities of Lviv, Ivano-Frankivsk and arrives in Rakhiv in the morning at 06 hours 56 minutes. 390 UAH one way (please note that the price may vary, depending on the date of purchase). In the opposite direction, the train departs at 18.00 and arrives at Kyiv railway station at 9:55.\n\n
+    • If you are traveling from Kharkiv, you can get to Rakhiv by train 015 k. Which departs from the railway station of Kharkiv at 18 h 42 min (data as of 10.11.2020). The train follows through the cities of Kyiv, Lviv, Ivano-Frankivsk and arrives in Rakhiv from 2 am to 5 pm, the ticket price in a luxury car will be UAH 2521, in a compartment car from UAH 1018, one way (note that the price may vary, depending on the day of purchase of tickets). In the opposite direction, the train leaves at 15 hours 20 minutes, and arrives at the railway station of Kharkiv at 11 hours 14 minutes.\n\n
+    Also, you can do this by regular bus service from the direction of cities:\n\n
+    • Transcarpathian region, namely: Uzhgorod - Mukachevo - Beregovo - Vynohradiv - Khust - Rakhiv.\n\n
+    • Ivano-Frankivsk region: Ivano-Frankivsk, Nadvirna, Delyatyn, Yaremche, Mykulychyn, Tatariv, Vorokhta, Yasinya - Rakhiv.\n\n
+    • Chernivtsi region: Chernivtsi, Kolomyia, Delyatyn, Yaremche, Mykulychyn, Tatariv, Vorokhta, Yasinya - Rakhiv.
+    </string>
+
+    <string name="title4">WHAT TO DO IN ACCOUNT ?</string>
+    <string name="text4_1">Have you already been to Rakhiv? Are you planning your visit, do you want to make it interesting and original, do you plan to learn more about the culture and life of Hutsuls? Even in Rakhiv, you have the opportunity to see the unique nature and forest, a real mountain meadow, get acquainted with the culture of sheep and Hutsul bryndza production, taste a variety of traditional dishes, travel not only on foot but also on horseback, bicycle and car.\n\n
+    Therefore, the Tourist Information Center "Turinform Transcarpathia" recommends you during your stay in Rakhiv, to pay attention to the following places.\n\n
+    Start your acquaintance with the city of Rakhiv right from the train station, where you can come from Kharkiv, Kyiv, Lviv.
+    </string>
+    <string name="des4">Rakhiv Railway Station</string>
+    <string name="text4_2">Imagine that in these mountain conditions more than 125 years ago, trains were already running here. The section from Rakhiv to Yasyn was put into operation in August 1895, and since then trains have been running to the cities of Budapest, Vienna, Prague and Uzhhorod via the Marmara region, which is now under Romanian rule. The bus station with direct flights to the Czech Republic is very close by.</string>
+
+    <string name="title5">THEN STOP ON THE BRIDGE ACROSS THE THESE RIVER.</string>
+    <string name="des5">Rakhiv, a bridge across the Tisza</string>
+    <string name="text5">Depending on the season, here you can feel the real extreme - to see the rapid flows of the mighty river Tisza. The bridge over the Tisza connects the two parts of Rakhiv. Interestingly, 3 kilometers from Rakhiv, near the road sign of the village of Bogdan, a confluence of two rivers is formed: White and Black Tisza, forming the longest tributary of the Danube - the Tisza (962 meters long, in Serbia, namely in Titel water flows into the Danube River).</string>
+
+    <string name="title6">TEMPLE OF SAINT JOHN OF NEPOM</string>
+    <string name="text6">After passing the bridge, you will see the main architectural monument of the city of Rakhiv - the Church of St. John of Nepomuk (a building of the mid-19th century). The main decoration of the temple is a tower clock from 1913.\n\n
+    The history of the church begins with the appearance in the city of Rakhiv of the Roman Catholic community, immigrants from Upper Austria in 1782. On the wall of the church there is a sculpture of the victims of communism in 1956 (sculptor Mykhailo Kolodko).</string>
+
+    <string name="title7">HUTSUL MONUMENT</string>
+    <string name="des7">Hutsul monument in Rakhiv</string>
+    <string name="text7">It is the only and thus unique Hutsul monument in the world. Notice how it rests. This is a traditional keptar and bartka (ax), and determination in action, which speaks of the strong spirit of the Hutsuls sung in legends. Also here you will see the inscription "Know - who we are". The author of the sculpture is Yuri Gaviuk. Monument in the central square of Rakhiv.</string>
+
+    <string name="title8">WHERE TO GO IN ACCOUNT?</string>
+    <string name="text8_1">Pay attention to the unique objects, in particular - that promotes the element of intangible cultural heritage of Transcarpathia highland sheep and Hutsul bryndza product, the tradition of which has remained unchanged for almost 500 years.</string>
+    <string name="des8">Hutsul Brindy Museum in Rakhiv</string>
+    <string name="title8_2">At your service, in the Hutsul Brindy Museum in Rakhiv:</string>
+    <string name="text8_2">• on special maps you will be shown the "shepherd\'s flock", where a circle of barbells with a cauldron, butter and berbenitsa, you can immerse yourself in the magic of making sheep\'s cheese in the meadows.\n
+    • Hutsul Sheep Bryndza is shown on the screen for more information on high-altitude sheep breeding.\n
+    • here you can immerse yourself in virtual trips to the highlands, where you will learn more about the culture of sheep, mountain farms and cultural heritage of Transcarpathia - Hutsul bryndza.\n
+    • order a master class service on making a traditional dish of kulish with brindze, as well as buy local products made in Rakhiv region.\n\n
+    You will be amazed by the combination of Hutsul traditions and modern technologies, complemented by virtual reality and the effect of presence on the meadow, among sheep, shepherds, landscapes. It\'s impressive.\n\n
+    Turinform Zakarpattia recommends you to subscribe to their Facebook page and learn about the services of the Hutsul Bryndza Museum in Rakhiv.\n
+    Address of the museum: Rakhiv, street Shevchenko 210, tel for information: 067 942 5302.
+    </string>
+
+    <string name="title9">EQUESTRIAN WALKING AROUND THE CITY OF RAKHIV</string>
+    <string name="des9_1">horseback riding Rakhiv</string>
+    <string name="text9">Give yourself a horseback ride for two or for company with friends in Rakhiv, while vacationing in Transcarpathia, it\'s a real drive and positive emotions, incredible scenery.\n\n
+    What are the features of horseback riding?\n\n
+    • You will be offered five quiet workers under the saddle of Hutsul horses, which have comfortable cowboy-type leather saddles with stops, which will make your trip comfortable.\n
+    • Remember that riding a horse in the saddle makes all muscle groups work, it is an active rest, you will need to maintain balance in the saddle of the horse.\n
+    • Horseback riding is a hippotherapy that helps to heal the whole body, relieves stress and gives positive emotions.\n
+    • You will be offered 3 routes to the mountains, lasting 3 and 5 hours, or a whole day with a picnic, cost from 500 UAH.\n
+    • The cost is 500 - 750 - 950 UAH per person, the change in price depends on the number of people on the route.
+    </string>
+    <string name="des9_2">Details and booking by phone: 0989441588, or 0931466290 (Michael)</string>
+
+    <string name="title10">TO SEE THE HIGHEST LARCH OF UKRAINE IN THE CITY OF RAKHIV - BURKUT ART DEPROPARK</string>
+    <string name="des10">Burkut Rakhiv Park</string>
+    <string name="text10">We recommend that you visit the Park of Culture and Recreation, a monument of landscape art of local significance, where the highest specimen of European larch grows. The height of this tree is over 56 m. Interestingly, larch, the only coniferous trees that drop branches for the winter. Here in the park you should taste the water from the mineral spring Burkut. This is natural carbonated water. In the Hutsul dialect, "burkut" means "one that flows from the ground." You can taste this water near the entrance to the park "Burkut" and on the way to Bald Mountain.</string>
+
+    <string name="title11">MUSEUM OF ECOLOGY OF MOUNTAINS OF THE CITY OF RAKHIV</string>
+    <string name="des11">Museum of Mountain Ecology</string>
+    <string name="text11">Another unique place in Rakhiv, created on the basis of the Carpathian Biosphere Reserve. The Museum of Mountain Ecology is a unique ecological-educational and historical-cultural center in the Carpathians, which was established in the 90s of the last century, but the formation of its exposition continues to this day.\n\n
+    The museum exposition, which occupies more than a thousand square meters, consists of two organically combined sections - "Natural ecosystems of the Carpathians" and "History of nature in the Ukrainian Carpathians." However, the formation of its exposition continues to this day, thanks to people who are not indifferent to the preservation of the cultural heritage of our region.\n\n
+    Plan your visit for 1-2 hours. Address: Rakhiv, street Krasne Pleso, 77, help by phone (03132) 2-29-14.
+    </string>
+
+    <string name="title12">YURIY PAVLOVYCH HUTSUL CARVING MUSEUM</string>
+    <string name="des12">Hutsul Carving Museum</string>
+    <string name="text12">Here you can see hand-carved plates, bowls, candlesticks, horns, which are unique in their kind. All works are only in one copy, because the carver does not sell them to complete one complete encyclopedia of the Hutsul region. The technique of execution is various - a carving, a dry carving, an inlay with a bakunt, brass nails, beads, a bone, nacre.\n\n
+    The Museum of Hutsul Carving by Yuri Pavlovich, opened with the assistance of patrons on the ground floor of the hotel "Europe".\n\n
+    Address of the museum: Rakhiv, st. Peace, 42.
+    </string>
+
+    <string name="title13_1">WHERE TO EAT IN RAHOVA?</string>
+    <string name="text13_1">Next, we recommend visiting for lunch or dinner. It may be:\n\n
+    Restaurant Europe, which offers traditional cuisine of Transcarpathia, but here you pay attention to the menu of Hutsul cuisine. Restaurant Europe is a roster with reasonable prices, delicious dishes and an exclusive menu of craft tinctures and liqueurs. Address: Rakhiv, st. Peace, 42.
+    </string>
+    <string name="title13_2">WHERE TO DRINK COFFEE IN COUNT?</string>
+    <string name="text13_2">Coffee jazz, Rakhiv, street Peace 31.</string>
+    <string name="des13">Rest in Rakhiv</string>
+    <string name="text13_3">Hutsul Chan, Rakhiv city, 2626 Myru Street.</string>
+
+    <string name="title14">WHERE TO STOP IN ACCOUNT?</string>
+    <string name="text14">We offer you a list of possible places to live:\n\n
+    • Hotel Europe, address: Rakhiv, st. Peace, 42.\n
+    • Kraft Estate, address: Rakhiv, 88 Bohdan Khmelnytsky Street, tel: + 38 097 791 5323.\n
+    • Village estate "Smerekova khata", Rakhiv, street Shevchenko 8, tel + 38 096 964 7603.\n
+    • Rakhiv Play Hotel, Rakhiv, tel. +38 067 909 2320.\n
+    • Holiday house "Mountain House", Rakhiv, st. Vilshinsky 21 a, phone: 093 854 6513.
+    </string>
+
+    <string name="title15">ORDERING A TOUR OF THE CITY OF ACCOUNTS:</string>
+    <string name="text15_1">• Guide Olga Shkuro, tel: +38 (097) 182-52-49, or +38 (063) 866-98-76.\n
+    • Guide Vasil Nebela, tel: + 38 067 983 7325.\n
+    </string>
+    <string name="des15">Tourist Information Center "Turinform Zakarpattya" recommends you several possible and interesting programs for recreation and educational excursions in the city of Rakhiv, which you can plan, namely:</string>
+    <string name="text15_2">• Route 1. From the city center to the main attractions "Sightseeing tour of Rakhiv".\n
+    • Route 2. From the city center to the top of the mountain, which would look from the mountain to the city "Panoramic Rakhiv".\n
+    • Route 3. From the center to the meadow to the shepherds "Shepherd's Way" (seasonal route).\n
+    • Route 4. Gastronomic Rakhiv "Hutsul cuisine".\n
+    • Route 5. Culture and folk crafts, museums and workshops Rakhiv.
+    </string>
+
+    <string name="res">Source: Oleksandr Koval, Turinform Zakarpattia.</string>
+
+    <string name="contacts">CONTACTS</string>
+
+    <string name="dev_name">Shcherba Semen</string>
+    <string name="dev_des">On this page you can contact the developer!</string>
+
+    <string name="facebook_url" translatable="false">https://www.facebook.com/profile.php?id=100019276483173</string>
+    <string name="instagram_url" translatable="false">https://www.instagram.com/_syom4ik_/</string>
+    <string name="telegram_url" translatable="false">https://t.me/Semen11ch</string>
+
+</resources>

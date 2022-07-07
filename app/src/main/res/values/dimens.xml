@@ -1,0 +1,16 @@
+<resources>
+    <dimen name="app_bar_height">80dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <dimen name="text_size">14sp</dimen>
+    <dimen name="text_size2">12sp</dimen>
+    <dimen name="title_size">18sp</dimen>
+    <dimen name="mar_title">20dp</dimen>
+
+    <dimen name="first_title_size">25sp</dimen>
+    <dimen name="first_card_height">200dp</dimen>
+    <dimen name="first_card_marginHorizontal">20dp</dimen>
+    <dimen name="first_card_marginTop">20dp</dimen>
+
+    <dimen name="title_size2">16sp</dimen>
+</resources>
